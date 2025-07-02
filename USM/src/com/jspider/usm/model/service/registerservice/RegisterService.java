@@ -6,6 +6,8 @@ import org.springframework.stereotype.Service;
 import com.jspider.usm.dto.RegisterDto;
 import com.jspider.usm.model.dao.registerdao.RegisterDao;
 
+@AllArgsConstructor //changed
+
 @Service
 public class RegisterService {
 
