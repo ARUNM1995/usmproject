@@ -1,0 +1,23 @@
+
+bsjan@LAPTOP-C29JB5H4 MINGW64 /d/git
+$ clone https://github.com/ARUNM1995/usmproject.git
+bash: clone: command not found
+
+bsjan@LAPTOP-C29JB5H4 MINGW64 /d/git
+$ git clone https://github.com/ARUNM1995/usmproject.git
+Cloning into 'usmproject'...
+remote: Enumerating objects: 92, done.
+remote: Total 92 (delta 0), reused 0 (delta 0), pack-reused 92 (from 1)
+Receiving objects: 100% (92/92), 15.20 MiB | 15.68 MiB/s, done.
+Resolving deltas: 100% (6/6), done.
+Updating files: 100% (61/61), done.
+
+bsjan@LAPTOP-C29JB5H4 MINGW64 /d/git
+$ cd usmproject
+
+bsjan@LAPTOP-C29JB5H4 MINGW64 /d/git/usmproject (master)
+$ git checkout -b subbranch-012
+Switched to a new branch 'subbranch-012'
+
+bsjan@LAPTOP-C29JB5H4 MINGW64 /d/git/usmproject (subbranch-012)
+$
