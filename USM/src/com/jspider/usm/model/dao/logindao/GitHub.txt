@@ -21,3 +21,25 @@ Switched to a new branch 'subbranch-012'
 
 bsjan@LAPTOP-C29JB5H4 MINGW64 /d/git/usmproject (subbranch-012)
 $
+
+
+bsjan@LAPTOP-C29JB5H4 MINGW64 /d/git/usmproject (subbranch-012)
+$ git status
+On branch subbranch-012
+nothing to commit, working tree clean
+
+bsjan@LAPTOP-C29JB5H4 MINGW64 /d/git/usmproject (subbranch-012)
+$ git add  USM/src/com/jspider/usm/model/dao/logindao/New Text Document.txt
+fatal: pathspec 'USM/src/com/jspider/usm/model/dao/logindao/New' did not match any files
+
+bsjan@LAPTOP-C29JB5H4 MINGW64 /d/git/usmproject (subbranch-012)
+$ git add  USM/src/com/jspider/usm/model/dao/logindao/GitHub.txt
+
+bsjan@LAPTOP-C29JB5H4 MINGW64 /d/git/usmproject (subbranch-012)
+$ git commit -m "exzx-v5-1121 : GitHub.txt added"
+On branch subbranch-012
+nothing to commit, working tree clean
+
+bsjan@LAPTOP-C29JB5H4 MINGW64 /d/git/usmproject (subbranch-012)
+$
+
