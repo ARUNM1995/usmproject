@@ -13,9 +13,12 @@ import com.jspider.usm.dto.LoginDto;
 import com.jspider.usm.dto.RegisterDto;
 import com.jspider.usm.model.service.loginservice.LoingService;
 @Controller
-@RequestMapping("/")
+@RequestMapping("/logn")
 public class LoginController
 {
+
+
+
 
 	@Autowired
 	private LoingService loingService;
