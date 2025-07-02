@@ -24,20 +24,5 @@ A proof of concept (POC) is a demonstration, the purpose of which is to verify t
 have the potential for real-world application. 
 POC is therefore a prototype that is designed to determine feasibility, but does not represent deliverables.
 
-A proof of concept (POC) is a demonstration, the purpose of which is to verify that certain concepts or theories 
-have the potential for real-world application. 
-POC is therefore a prototype that is designed to determine feasibility, but does not represent deliverables.
-A proof of concept (POC) is a demonstration, the purpose of which is to verify that certain concepts or theories 
-have the potential for real-world application. 
-POC is therefore a prototype that is designed to determine feasibility, but does not represent deliverables.
-A proof of concept (POC) is a demonstration, the purpose of which is to verify that certain concepts or theories 
-have the potential for real-world application. 
-POC is therefore a prototype that is designed to determine feasibility, but does not represent deliverables.A proof of concept (POC) is a demonstration, the purpose of which is to verify that certain concepts or theories 
-have the potential for real-world application. 
-POC is therefore a prototype that is designed to determine feasibility, but does not represent deliverables.A proof of concept (POC) is a demonstration, the purpose of which is to verify that certain concepts or theories 
-have the potential for real-world application. 
-POC is therefore a prototype that is designed to determine feasibility, but does not represent deliverables.A proof of concept (POC) is a demonstration, the purpose of which is to verify that certain concepts or theories 
-have the potential for real-world application. 
-POC is therefore a prototype that is designed to determine feasibility, but does not represent deliverables.A proof of concept (POC) is a demonstration, the purpose of which is to verify that certain concepts or theories 
-have the potential for real-world application. 
-POC is therefore a prototype that is designed to determine feasibility, but does not represent deliverables.
+This is done by Ashish....
+
