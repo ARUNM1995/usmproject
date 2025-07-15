@@ -23,3 +23,19 @@ password and mails it to a registered email by using JavaMails. User can upload 
 A proof of concept (POC) is a demonstration, the purpose of which is to verify that certain concepts or theories 
 have the potential for real-world application. 
 POC is therefore a prototype that is designed to determine feasibility, but does not represent deliverables.
+
+
+@ComponentScan(basePackages = {"com.jsp.ApplicationContextAlpha","com.jsp.ApplicationContextAlpha1"})
+
+ which is used to specifying the location of POJO classes to the  IoC container by using basePackages attribute
+
+note: here if we have n number of packages so it is to complex to search to write to much code so instead of doing that  we use same domain (common prefix name) name as package 
+so it try to create object of all domain com.jsp packages beans which are annotated with @Component
+@ComponentScan(basePackages = {"com.jsp"})
+while we using annotation so bean id will  consider as class name. bean id will be as lower name as class name
+if we have an multiple word class name so bean id will consider as First word will Lower and remaining Words Initial char will be cap letter
+public class ConfiClass 
+{
+	
+
+}
